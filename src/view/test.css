@@ -1,0 +1,48 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  color:white;
+  font-family: sans-serif;
+}
+.navbar{
+  display: flex;
+  background-color: navy;
+  justify-content: space-around;
+  height:2rem;  
+}
+.questions{
+  width:800px;
+  color:black;
+  padding:10px;
+}
+.dashbar{
+  width:200px;
+  display: flex;
+  flex-wrap: wrap;
+  gap:15px;
+  justify-content: center;
+}
+.dashAndQs{
+  display: flex;
+  justify-content: space-between;
+  margin-right:10px;
+  margin-top: 10px;
+}
+.question{
+  margin-bottom: 10px;
+
+}
+.dashbar span{
+ text-align: center;
+  color:green;
+  padding:2px;
+  width:18px;
+  height:18px;
+  border: 2px solid green;
+  cursor: pointer;
+}
+.questions p{
+  font-size: 20px;
+}

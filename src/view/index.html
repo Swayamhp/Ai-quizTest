@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz app</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.10.111/pdf.min.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <form id="container">
+    <h1>Quiz test</h1>
+    <div class="fileAndTopic">
+      <div class="fileUpload"><input type="file" id="pdfInput" />
+</div>
+      <div class="inputTopic">
+        <label for="topic" class="topic">Topic name:</label>
+        <input type="text" class="topic" name="topic"/></div>
+      </div>
+  <div class="otherInfo">
+    <div class="otherInfoInput"> <label for="level" class="level">Question level:</label>
+    <select name="level" id="dlevel">
+      <option value="Easy">Easy</option>
+      <option value="Medium">Medium</option>
+      <option value="Hard">Hard</option>
+    </select></div>
+   
+    <div class="otherInfoInput">
+      <label for="topic" class="topic">Number of Questions:</label>
+      <input type="text" value="20"class="topic" name="numberOfquestions"/></div>
+      <div class="otherInfoInput">
+        <label for="topic" class="topic">Duration in Min:</label>
+        <input type="text" value='20'class="topic" name="duration"/>
+      </div> 
+      <div class="otherInfoInput">
+      <label for="markForqs" class="topic" name="markPerquestion">Mark/Question:</label>
+      <input type="text" value='1'class="markForqs"name="markPerquestion"/></div>
+    </div>
+    
+    <button type="submit">submit</button> <a href="test.html">Proceed</a>
+  </form>
+  </div>
+  </div>
+  <script type="module" src="../controller/formController.js"></script>
+</body>
+</html>

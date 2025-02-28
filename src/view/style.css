@@ -1,0 +1,70 @@
+*{
+  margin:0;
+  padding:0;
+}
+html{
+font-size: 62.5%;  
+}
+body{
+  font-size:1.6rem;
+  font-family: sans-serif;
+  color:white;
+}
+#container{
+ position: absolute;
+ left:50%;
+ top:50%;
+ transform: translate(-50%,-50%);
+ height:30rem;
+ width:50rem;
+ text-align: center;
+ padding:15px;
+ border-radius:15px;
+ background-color: hsl(218, 93%, 27%);
+ box-shadow: 0px 4px 8px rgba(0,0,0,0.3);
+}
+.fileAndTopic{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:100%;
+}
+.otherInfo{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+  margin:0 auto;
+  width:300px;
+  justify-content: space-between;
+  padding:20px;
+}
+.otherInfo input,select{
+ width:60px;
+ height:20px;
+
+}
+.otherInfo select{
+  width:65px;
+  height:25px;
+ }
+.otherInfo input,select :active,input,select:enabled{
+  outline-color:cadetblue;
+ }
+ .otherInfoInput{
+  display: flex;
+  justify-content: space-between;
+ }
+ .inputTopic input{
+  height:25px;
+
+ }
+ button{
+  padding:7px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid lightblue;
+  transition: 0.5s;
+ }
+ button:hover{
+  background-color:lightblue;
+ }
