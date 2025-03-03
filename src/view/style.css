@@ -6,35 +6,35 @@ html{
 font-size: 62.5%;  
 }
 body{
-  font-size:1.6rem;
+  display: flex;
+  justify-content: center;
+  height:100vh;
+  align-items: center;
+  font-size:23px;
   font-family: sans-serif;
   color:white;
 }
 #container{
- position: absolute;
- left:50%;
- top:50%;
- transform: translate(-50%,-50%);
- height:30rem;
- width:50rem;
+ width:70%;
  text-align: center;
  padding:15px;
  border-radius:15px;
- background-color: hsl(218, 93%, 27%);
+ background-color: rgb(26, 164, 249);
  box-shadow: 0px 4px 8px rgba(0,0,0,0.3);
 }
 .fileAndTopic{
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  width:100%;
 }
 .otherInfo{
   display: flex;
   flex-direction: column;
   gap:10px;
   margin:0 auto;
-  width:300px;
+  min-width:200px;
+  max-width:350px;
   justify-content: space-between;
   padding:20px;
 }
@@ -59,12 +59,40 @@ body{
 
  }
  button{
-  padding:7px;
+  padding:7px 15px;
   cursor: pointer;
   border-radius: 5px;
   border: 2px solid lightblue;
   transition: 0.5s;
+  z-index: 1;
  }
  button:hover{
   background-color:lightblue;
+ }
+ button::after{
+  visibility:hidden;
+  content:'';
+  position: absolute;
+  height: 20px;
+  width:20px;
+  transform: translate(-150%,-20%);
+  border-radius: 50%;
+  background-color:transparent;
+  z-index: 5;
+  border-right:3px solid lightskyblue;
+  border-top:3px solid lightskyblue;
+
+  animation: rotate 0.6s linear infinite;
+
+ }
+ button.active{
+  background-color:rgb(80, 188, 188)
+ }
+ button.active::after{
+  visibility: visible;
+ }
+ @keyframes rotate{
+ to{
+  transform: translate(-150%,-20%) rotate(360deg);
+ }
  }

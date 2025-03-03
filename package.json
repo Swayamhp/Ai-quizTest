@@ -1,7 +1,6 @@
 {
   "name": "quizapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/view/index.html ",
@@ -12,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.22.0"
-  }
+  },
+  "description": ""
 }

@@ -27,17 +27,17 @@
    
     <div class="otherInfoInput">
       <label for="topic" class="topic">Number of Questions:</label>
-      <input type="text" value="20"class="topic" name="numberOfquestions"/></div>
+      <input type="number" value="10"class="topic" name="numberOfquestions"/></div>
       <div class="otherInfoInput">
         <label for="topic" class="topic">Duration in Min:</label>
-        <input type="text" value='20'class="topic" name="duration"/>
+        <input type="number" value='5'class="topic" name="duration" required/>
       </div> 
       <div class="otherInfoInput">
       <label for="markForqs" class="topic" name="markPerquestion">Mark/Question:</label>
-      <input type="text" value='1'class="markForqs"name="markPerquestion"/></div>
+      <input type="number" value='1'class="markForqs"name="markPerquestion"/></div>
     </div>
     
-    <button type="submit">submit</button> <a href="test.html">Proceed</a>
+    <a href="test.html"><button type="submit" id="submit">Submit</button></a>
   </form>
   </div>
   </div>
