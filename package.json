@@ -1,10 +1,10 @@
 {
   "name": "quizapp",
   "version": "1.0.0",
-  "main": "index.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel src/view/index.html ",
-    "build": "parcel build src/view/index.html"
+    "build": "parcel build src/view/index.html --dist-dir ./dist"
   },
   "keywords": [],
   "author": "",
