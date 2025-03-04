@@ -1,4 +1,4 @@
-4338
+4334
 71C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\agents.js133855428545702913 0
 53C:\Users\hgoud\Desktop\quizApp\node_modules\@mischnic133855428526249572 1
 84C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\core\lib\public\PluginOptions.js133855428551205969 0
@@ -11,13 +11,13 @@
 43C:\Users\hgoud\Desktop\quizApp\package.json133855435513956965 0
 68C:\Users\hgoud\Desktop\quizApp\node_modules\js-yaml\lib\exception.js133855428544541684 0
 97C:\Users\hgoud\Desktop\quizApp\node_modules\posthtml\node_modules\domutils\lib\traversal.d.ts.map133855428546566713 0
-41C:\Users\hgoud\Desktop\quizApp\.gitignore133851950171824131 0
+41C:\Users\hgoud\Desktop\quizApp\.gitignore133855449376387093 0
 85C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\src\_to_consumable_array.mjs133855428555574966 0
 34C:\Users\hgoud\Desktop\quizApp\src133848715912547105 1
 66C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\core\binding.d.ts133855428541013804 0
 93C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133855428546425141 0
 86C:\Users\hgoud\Desktop\quizApp\node_modules\posthtml\node_modules\domhandler\readme.md133855428543970969 0
-35C:\Users\hgoud\Desktop\quizApp\dist133855435588992910 1
+35C:\Users\hgoud\Desktop\quizApp\dist133855466698810621 1
 95C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs133855428549388343 0
 67C:\Users\hgoud\Desktop\quizApp\node_modules\domhandler\package.json133855428544110778 0
 87C:\Users\hgoud\Desktop\quizApp\node_modules\update-browserslist-db\check-npm-version.js133855428539489667 0
@@ -61,7 +61,7 @@
 93C:\Users\hgoud\Desktop\quizApp\node_modules\posthtml\node_modules\dom-serializer\package.json133855428544100663 0
 57C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\index.js133855428551346512 0
 52C:\Users\hgoud\Desktop\quizApp\node_modules\get-port133855428542310657 1
-50C:\Users\hgoud\Desktop\quizApp\src\view\display.js133854876441944711 0
+50C:\Users\hgoud\Desktop\quizApp\src\view\display.js133855463059281001 0
 93C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133855428544360992 0
 60C:\Users\hgoud\Desktop\quizApp\node_modules\chalk\index.d.ts133855428543950843 0
 75C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\utils\test\input\config133855428550750537 1
@@ -82,10 +82,10 @@
 75C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\regions\CY.js133855428553766536 0
 88C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\object-entries.js133855428558642994 0
 74C:\Users\hgoud\Desktop\quizApp\node_modules\@babel\code-frame\lib\index.js133855428540203233 0
-49C:\Users\hgoud\Desktop\quizApp\src\view\style.css133854794797181841 0
+49C:\Users\hgoud\Desktop\quizApp\src\view\style.css133855465274582738 0
 73C:\Users\hgoud\Desktop\quizApp\node_modules\weak-lru-cache\dist\index.cjs133855428539065561 0
 81C:\Users\hgoud\Desktop\quizApp\node_modules\dom-serializer\lib\esm\index.d.ts.map133855428545069427 0
-48C:\Users\hgoud\Desktop\quizApp\src\view\test.css133854831758050737 0
+48C:\Users\hgoud\Desktop\quizApp\src\view\test.css133855466643205658 0
 78C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\cjs\_create_class.cjs133855428548398492 0
 89C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\css-caret-color.js133855428551464820 0
 59C:\Users\hgoud\Desktop\quizApp\node_modules\clone\README.md133855428540135812 0
@@ -96,7 +96,7 @@
 85C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\customevent.js133855428553711233 0
 77C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\eme.js133855428554312237 0
 67C:\Users\hgoud\Desktop\quizApp\node_modules\escalade\dist\index.mjs133855428543291743 0
-49C:\Users\hgoud\Desktop\quizApp\src\view\test.html133854785031023534 0
+49C:\Users\hgoud\Desktop\quizApp\src\view\test.html133855465178960134 0
 65C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\dependencies\lz4133855428545930093 1
 85C:\Users\hgoud\Desktop\quizApp\node_modules\node-gyp-build-optional-packages\index.js133855428540989075 0
 60C:\Users\hgoud\Desktop\quizApp\node_modules\term-size\vendor133855428542560472 1
@@ -123,7 +123,7 @@
 52C:\Users\hgoud\Desktop\quizApp\node_modules\posthtml133855428542952371 1
 75C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\regions\AS.js133855428548289440 0
 51C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel133855428569121991 1
-52C:\Users\hgoud\Desktop\quizApp\src\model\quizData.js133849629151875844 0
+52C:\Users\hgoud\Desktop\quizApp\src\model\quizData.js133855459044095182 0
 88C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\_\_super_prop_base\package.json133855428554019569 0
 71C:\Users\hgoud\Desktop\quizApp\node_modules\.bin\update-browserslist-db133855428563637980 0
 69C:\Users\hgoud\Desktop\quizApp\node_modules\tslib\CopyrightNotice.txt133855428545764188 0
@@ -146,6 +146,7 @@
 108C:\Users\hgoud\Desktop\quizApp\node_modules\@google\generative-ai\dist\server\src\methods\embed-content.d.ts133852737314105653 0
 57C:\Users\hgoud\Desktop\quizApp\node_modules\node-releases133855428543331815 1
 61C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\package.json133855428551600269 0
+52C:\Users\hgoud\Desktop\quizApp\dist\test.5c272641.js133855463374465977 0
 77C:\Users\hgoud\Desktop\quizApp\node_modules\posthtml\node_modules\htmlparser2133855428545682986 1
 51C:\Users\hgoud\Desktop\quizApp\node_modules\@google133852737311928243 1
 118C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json133855428548194370 0
@@ -853,7 +854,6 @@
 91C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\template-literals.js133855428561193446 0
 78C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\_\_async_to_generator133855428552463522 1
 58C:\Users\hgoud\Desktop\quizApp\node_modules\semver\classes133855428548605038 1
-52C:\Users\hgoud\Desktop\quizApp\dist\test.e1b6fa1b.js133855435140112452 0
 60C:\Users\hgoud\Desktop\quizApp\node_modules\semver\functions133855428548899094 1
 59C:\Users\hgoud\Desktop\quizApp\node_modules\semver\internal133855428548362589 1
 58C:\Users\hgoud\Desktop\quizApp\node_modules\semver\LICENSE133855428538921558 0
@@ -1418,7 +1418,7 @@
 75C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\regions\CG.js133855428550496182 0
 82C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\packager-js\src\DevPackager.js133855428543936548 0
 80C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\stream.js133855428560607255 0
-46C:\Users\hgoud\Desktop\quizApp\dist\index.html133855435588836289 0
+46C:\Users\hgoud\Desktop\quizApp\dist\index.html133855465346598713 0
 73C:\Users\hgoud\Desktop\quizApp\node_modules\ordered-binary\dist\index.cjs133855428539640867 0
 124C:\Users\hgoud\Desktop\quizApp\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json133855428544381080 0
 62C:\Users\hgoud\Desktop\quizApp\node_modules\msgpackr\pack.d.ts133855428549493927 0
@@ -1437,7 +1437,7 @@
 73C:\Users\hgoud\Desktop\quizApp\node_modules\@lmdb\lmdb-win32-x64\index.js133855428538120519 0
 115C:\Users\hgoud\Desktop\quizApp\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133855428563637980 0
 67C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\fs\package.json133855428545864412 0
-57C:\Users\hgoud\Desktop\quizApp\dist\test.15a92cd2.css.map133855435588955479 0
+57C:\Users\hgoud\Desktop\quizApp\dist\test.15a92cd2.css.map133855459114035290 0
 67C:\Users\hgoud\Desktop\quizApp\node_modules\nullthrows\package.json133855428538941672 0
 74C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\codeframe\package.json133855428547815754 0
 80C:\Users\hgoud\Desktop\quizApp\node_modules\entities\lib\decode_codepoint.js.map133855428547316311 0
@@ -1471,7 +1471,6 @@
 95C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.mjs133855428550136000 0
 90C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\getcomputedstyle.js133855428555325106 0
 83C:\Users\hgoud\Desktop\quizApp\node_modules\node-gyp-build-optional-packages\bin.js133855428539499712 0
-57C:\Users\hgoud\Desktop\quizApp\dist\index.6988b153.js.map133855387566188505 0
 90C:\Users\hgoud\Desktop\quizApp\node_modules\node-gyp-build-optional-packages\build-test.js133855428540062775 0
 77C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\es5.js133855428554372201 0
 88C:\Users\hgoud\Desktop\quizApp\node_modules\node-gyp-build-optional-packages\optional.js133855428542360679 0
@@ -1617,7 +1616,6 @@
 64C:\Users\hgoud\Desktop\quizApp\node_modules\is-extglob\README.md133855428539479678 0
 70C:\Users\hgoud\Desktop\quizApp\node_modules\msgpackr\dist\index.min.js133855428546291930 0
 74C:\Users\hgoud\Desktop\quizApp\node_modules\msgpackr\dist\index.min.js.map133855428548635054 0
-53C:\Users\hgoud\Desktop\quizApp\dist\index.39f8de59.js133855435139388006 0
 70C:\Users\hgoud\Desktop\quizApp\node_modules\msgpackr\dist\node.cjs.map133855428548920143 0
 75C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\plugin\lib\PluginAPI.js133855428539691291 0
 69C:\Users\hgoud\Desktop\quizApp\node_modules\msgpackr\dist\test.js.map133855428549215399 0
@@ -1818,7 +1816,7 @@
 104C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133855428544134889 0
 95C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133855428547418562 0
 82C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\package-manager\lib\index.d.ts133855428548955397 0
-52C:\Users\hgoud\Desktop\quizApp\dist\test.8035395e.js133855435588836289 0
+52C:\Users\hgoud\Desktop\quizApp\dist\test.8035395e.js133855459113950478 0
 95C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133855428547641588 0
 95C:\Users\hgoud\Desktop\quizApp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133855428549105385 0
 56C:\Users\hgoud\Desktop\quizApp\node_modules\entities\lib133855428549819910 1
@@ -1934,6 +1932,7 @@
 76C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\transformer-html\LICENSE133855428538951583 0
 62C:\Users\hgoud\Desktop\quizApp\node_modules\is-number\index.js133855428539415031 0
 78C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\feature-flags\lib\index.js133855428540699035 0
+57C:\Users\hgoud\Desktop\quizApp\dist\index.f2aa4217.js.map133855459114070973 0
 64C:\Users\hgoud\Desktop\quizApp\node_modules\is-glob\package.json133855428540049534 0
 82C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\css-zoom.js133855428553557696 0
 68C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\esm\_jsx.js133855428551690312 0
@@ -1994,7 +1993,6 @@
 65C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\package.json133855428549045396 0
 62C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\README.md133855428549963281 0
 68C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\lib\helpers.cjs133855428544800318 0
-63C:\Users\hgoud\Desktop\quizApp\dist\index.0bd092a0.css.12012.ik133852793208776262 0
 69C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\lib\htmlnano.mjs133855428550216007 0
 64C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\lib\modules133855428550729587 1
 75C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\regions\DK.js133855428554009580 0
@@ -2005,6 +2003,7 @@
 76C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\lib\presets\ampSafe.mjs133855428549973261 0
 72C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\events\lib\errors.js133855428543062291 0
 72C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\lib\presets\max.cjs133855428545692911 0
+57C:\Users\hgoud\Desktop\quizApp\dist\test.9b053f32.css.map133855466698810621 0
 73C:\Users\hgoud\Desktop\quizApp\node_modules\htmlnano\lib\presets\safe.cjs133855428547685877 0
 91C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\_\_is_native_function\package.json133855428553607698 0
 90C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\cjs\_async_generator_delegate.cjs133855428544120759 0
@@ -2564,7 +2563,6 @@
 77C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\src\_export_star.mjs133855428555153268 0
 75C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\regions\GR.js133855428555544887 0
 99C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133855428553557696 0
-62C:\Users\hgoud\Desktop\quizApp\dist\test.7d6bcf19.css.12012.in133852793208786241 0
 75C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\regions\GT.js133855428555564973 0
 107C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133855428552429412 0
 87C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\selection-api.js133855428560215990 0
@@ -2750,6 +2748,7 @@
 85C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\canvas-text.js133855428550426128 0
 72C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\Event.hh133855428547685877 0
 81C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\ch-unit.js133855428550606831 0
+53C:\Users\hgoud\Desktop\quizApp\dist\test.c60020a2.css133855463374465977 0
 91C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133855428550669597 0
 85C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\css-regions.js133855428552887481 0
 82C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\packager-js\lib\DevPackager.js133855428543541786 0
@@ -2935,7 +2934,6 @@
 98C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js133855428556095769 0
 83C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\wasm\WasmBackend.cc133855428546201962 0
 85C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\input-color.js133855428556115753 0
-62C:\Users\hgoud\Desktop\quizApp\dist\index.39f8de59.js.12012.im133852793208776262 0
 83C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\svg-fonts.js133855428560700353 0
 85C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\input-event.js133855428556155746 0
 91C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\input-file-accept.js133855428556165746 0
@@ -2997,6 +2995,7 @@
 83C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\packager-css\src\CSSPackager.js133855428540870802 0
 86C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\offline-apps.js133855428558711512 0
 89C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\offscreencanvas.js133855428558736061 0
+57C:\Users\hgoud\Desktop\quizApp\dist\test.f3be6cbb.css.map133855465346977453 0
 84C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\ogg-vorbis.js133855428558746067 0
 93C:\Users\hgoud\Desktop\quizApp\node_modules\caniuse-lite\data\features\once-event-listener.js133855428558786033 0
 101C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133855428552530600 0
@@ -3173,7 +3172,6 @@
 64C:\Users\hgoud\Desktop\quizApp\node_modules\browserslist\node.js133855428543512297 0
 69C:\Users\hgoud\Desktop\quizApp\node_modules\browserslist\package.json133855428544182914 0
 65C:\Users\hgoud\Desktop\quizApp\node_modules\browserslist\parse.js133855428543914482 0
-57C:\Users\hgoud\Desktop\quizApp\dist\index.b3b42903.js.map133855435139642408 0
 66C:\Users\hgoud\Desktop\quizApp\node_modules\browserslist\README.md133855428544610148 0
 79C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\package-manager\src\Yarn.js133855428547899511 0
 54C:\Users\hgoud\Desktop\quizApp\node_modules\braces\lib133855428544051409 1
@@ -3187,7 +3185,6 @@
 60C:\Users\hgoud\Desktop\quizApp\node_modules\base-x\README.md133855428541153807 0
 87C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\core\test\fixtures\config-malformed133855428540870802 1
 54C:\Users\hgoud\Desktop\quizApp\node_modules\base-x\src133855428542391729 1
-58C:\Users\hgoud\Desktop\quizApp\dist\index.0bd092a0.css.map133855435139600450 0
 65C:\Users\hgoud\Desktop\quizApp\node_modules\base-x\src\index.d.ts133855428542525103 0
 63C:\Users\hgoud\Desktop\quizApp\node_modules\base-x\src\index.js133855428539077721 0
 89C:\Users\hgoud\Desktop\quizApp\node_modules\@swc\helpers\cjs\_iterable_to_array_limit.cjs133855428549418543 0
@@ -3707,7 +3704,7 @@
 91C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.hh133855428548398492 0
 78C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\wasm\include.h133855428547165836 0
 83C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\wasm\WasmBackend.hh133855428548269450 0
-53C:\Users\hgoud\Desktop\quizApp\dist\test.15a92cd2.css133855435588830872 0
+53C:\Users\hgoud\Desktop\quizApp\dist\test.15a92cd2.css133855459113948993 0
 75C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\unix\fts.cc133855428544822490 0
 91C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc133855428541625196 0
 88C:\Users\hgoud\Desktop\quizApp\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh133855428547795782 0
@@ -4321,19 +4318,18 @@
 59C:\Users\hgoud\Desktop\quizApp\node_modules\.bin\semver.ps1133855428563617860 0
 75C:\Users\hgoud\Desktop\quizApp\node_modules\.bin\update-browserslist-db.cmd133855428563637980 0
 75C:\Users\hgoud\Desktop\quizApp\node_modules\.bin\update-browserslist-db.ps1133855428563628099 0
-54C:\Users\hgoud\Desktop\quizApp\dist\index.0bd092a0.css133855435139067785 0
-54C:\Users\hgoud\Desktop\quizApp\dist\index.37673553.css133855435588836289 0
-58C:\Users\hgoud\Desktop\quizApp\dist\index.37673553.css.map133855435588961124 0
-57C:\Users\hgoud\Desktop\quizApp\dist\index.39f8de59.js.map133855435139665664 0
-53C:\Users\hgoud\Desktop\quizApp\dist\index.6988b153.js133855387565755520 0
-53C:\Users\hgoud\Desktop\quizApp\dist\index.b3b42903.js133855435139077731 0
-53C:\Users\hgoud\Desktop\quizApp\dist\index.ff4baff7.js133855435588836289 0
-57C:\Users\hgoud\Desktop\quizApp\dist\index.ff4baff7.js.map133855435588961124 0
-52C:\Users\hgoud\Desktop\quizApp\dist\test.29944a76.js133855435588841559 0
-56C:\Users\hgoud\Desktop\quizApp\dist\test.29944a76.js.map133855435588982376 0
-53C:\Users\hgoud\Desktop\quizApp\dist\test.7d6bcf19.css133855435140112452 0
-57C:\Users\hgoud\Desktop\quizApp\dist\test.7d6bcf19.css.map133855435140492985 0
-56C:\Users\hgoud\Desktop\quizApp\dist\test.8035395e.js.map133855435588961124 0
-61C:\Users\hgoud\Desktop\quizApp\dist\test.e1b6fa1b.js.12012.il133852793208776262 0
-56C:\Users\hgoud\Desktop\quizApp\dist\test.e1b6fa1b.js.map133855435140492985 0
-45C:\Users\hgoud\Desktop\quizApp\dist\test.html133855435588836289 0
+54C:\Users\hgoud\Desktop\quizApp\dist\index.37673553.css133855459113952820 0
+58C:\Users\hgoud\Desktop\quizApp\dist\index.37673553.css.map133855459114035290 0
+54C:\Users\hgoud\Desktop\quizApp\dist\index.b588a21c.css133855465346598713 0
+58C:\Users\hgoud\Desktop\quizApp\dist\index.b588a21c.css.map133855465346987284 0
+53C:\Users\hgoud\Desktop\quizApp\dist\index.f2aa4217.js133855459113952820 0
+52C:\Users\hgoud\Desktop\quizApp\dist\test.0529f609.js133855462128596137 0
+56C:\Users\hgoud\Desktop\quizApp\dist\test.0529f609.js.map133855462128668342 0
+52C:\Users\hgoud\Desktop\quizApp\dist\test.29944a76.js133855459113956031 0
+56C:\Users\hgoud\Desktop\quizApp\dist\test.29944a76.js.map133855459114042134 0
+56C:\Users\hgoud\Desktop\quizApp\dist\test.5c272641.js.map133855463374756499 0
+56C:\Users\hgoud\Desktop\quizApp\dist\test.8035395e.js.map133855459114035290 0
+53C:\Users\hgoud\Desktop\quizApp\dist\test.9b053f32.css133855466698770613 0
+57C:\Users\hgoud\Desktop\quizApp\dist\test.c60020a2.css.map133855463374751469 0
+53C:\Users\hgoud\Desktop\quizApp\dist\test.f3be6cbb.css133855465346598713 0
+45C:\Users\hgoud\Desktop\quizApp\dist\test.html133855466698770613 0

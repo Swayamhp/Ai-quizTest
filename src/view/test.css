@@ -36,6 +36,7 @@ body{
 }
 .dashbar{
   width:200px;
+  height:10px;
   display: flex;
   flex-wrap: wrap;
   gap:15px;
@@ -76,7 +77,7 @@ body{
   background-color: rgb(241, 51, 51);
   color:white;
 }
-button{
+.button{
   display: inline-block;
   padding:8px 20px;
   background-color: rgb(82, 198, 234);
@@ -99,4 +100,9 @@ button:hover{
 .btns{
   padding:20px;
 }
+a{
+  text-decoration: none;
+  font-size:20px;
+  color:black;
 
+}

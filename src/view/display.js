@@ -40,8 +40,8 @@ export const result = function(questions){
     }
   });
   const HTMLcode = `<div class="result"<h1>Result:  ${correct}/${questions.length}</h1></br>
-   <a href="/index.html"><button>New Test</button></a>
-    <a href="/test.html"><button>Retry</button></a>
+   <a href="/index.html" class="button">New test</a>
+    <a href="/test.html" class="button">Retry</a>
 
   </div>`;
 return HTMLcode;
