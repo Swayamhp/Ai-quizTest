@@ -2,7 +2,7 @@ import * as model from '../model/model.js'
 
 
 export const displayQuestion = function(quizQuestions,index=0,submitted=false){
-  console.log(quizQuestions);
+  
   const HTMLCode = `<div class="questions">
       <p class="question">${index+1}.
       ${quizQuestions[index]?.question}
@@ -15,7 +15,7 @@ export const displayQuestion = function(quizQuestions,index=0,submitted=false){
       </div>
     </div>
   `;
- console.log(quizQuestions);
+ 
  if(!quizQuestions[index])return;
     return [HTMLCode,+quizQuestions[index]?.id];
 }
@@ -25,7 +25,7 @@ export const displayOptions= function(){
 export const showNumbers = function(numberOfQuestions,questions,submitted=false){
   let allHtmlCode='';
   for(let i=1;i<=numberOfQuestions;i++){
-    console.log(questions[i-1].checkOption,questions[i-1].answer);
+    
    allHtmlCode+=`<span ${submitted&& (questions[i-1].answer===questions[i-1].checkOption?'class="correct"':'class="wrong"')}>${i}</span>`
   }
   return allHtmlCode;

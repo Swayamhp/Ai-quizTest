@@ -5,19 +5,19 @@ const dashEle = document.querySelector('.dashbar');
 const questionEle = document.querySelector('.questions');
 const btnsEle = document.querySelector('.btns');
 const navBarEle = document.querySelector('.navbar');
-const formEle = document.querySelector('.questions');
+const formEle = document.querySelector('.questionsForm');
 const prevButton = document.querySelector('#prevbtn');
 const formData = JSON.parse(localStorage.getItem("formData"));
 const submitEle = document.querySelector('#submitbtn');
 const resultEle = document.querySelector('.result');
 const savenextbtnEle = document.querySelector('#nextbtn');
 
-console.log(submitEle);
+
 let submitted = false;
 //initailize timer and topic
 //get all questions from local storage
 const questions = JSON.parse(localStorage.getItem("question"));
-console.log(questions);
+
 
 let index=0;
 //topic 
@@ -28,7 +28,7 @@ navBarEle.appendChild(createTopic);
 
 // Timer
 let totalMinutes = formData.duration;
-console.log(totalMinutes);
+
 
 const createTimerEle = document.createElement('h2');
 navBarEle.appendChild(createTimerEle);
@@ -53,7 +53,7 @@ const timerId = setInterval(() => {
 
 }, 60000);
 
-console.log(String(4).padStart(2, '0')); // Example output: "04"
+
 
 //show the questions with options
 const checkArrayOrObject = function(questions){
@@ -66,10 +66,10 @@ const checkArrayOrObject = function(questions){
 }
 
 const [strQuestion,id] = display.displayQuestion(checkArrayOrObject(questions));
-console.log(strQuestion,+id);
+
 if (strQuestion.trim()) { // Ensure it's not an empty string
   const node = document.createRange().createContextualFragment(strQuestion);
-  console.log(node); // Check the node structure
+  
 if(questionEle)questionEle.appendChild(node);
 // btnsEle.insertAdjacentHTML('afterbegin',strQuestion);
 }
@@ -83,7 +83,7 @@ const str = display.showNumbers(formData.numberOfquestions,Questions); // Get th
 
 if (str.trim()) { // Ensure it's not an empty string
     const node = document.createRange().createContextualFragment(str);
-    console.log(node); // Check the node structure
+    
 if(dashEle)dashEle.appendChild(node);
 }
 
@@ -91,18 +91,18 @@ if(dashEle)dashEle.appendChild(node);
 //event delegation for queston rendering
 
 dashEle.addEventListener('click',function(e){
-  console.log(e.target);
+  
   const spanEle = e.target;
   if(spanEle.tagName ==='SPAN'){
     questionEle.innerHTML='';
     const Questions = checkArrayOrObject(questions);
     const [strQuestion,id] = display.displayQuestion(Questions,spanEle.textContent-1,submitted);
     index = spanEle.textContent-1;
-    console.log(index);
+    
    
 if (strQuestion.trim()) { // Ensure it's not an empty string
   const node = document.createRange().createContextualFragment(strQuestion);
-  console.log(node); // Check the node structure
+  
 if(questionEle)questionEle.appendChild(node);
 }
   }
@@ -114,28 +114,28 @@ savenextbtnEle.addEventListener('click',function(e){
   const formData = new FormData(formEle);
   const data = Object.fromEntries(formData.entries());
    const Questions = checkArrayOrObject(questions);
-   console.log(Questions);
+   
    Questions[index].checkOption= data.option;
 
 
    //changeBackground color of the dash ele
 
    if(Questions[index].checkOption){
-    console.log('hello');
+    
     const allSpanEle = dashEle.querySelectorAll('span');
     allSpanEle.forEach(ele=>{
-      console.log(ele.textContent);
+      
       if(ele.textContent-1===index){
           ele.style.backgroundColor='lightblue';
     }})
-  } console.log(Questions.length);
+  } 
      if(index<Questions.length-1)index++;
-     console.log(index);
+     
    const [strQuestion] = display.displayQuestion(Questions,index,submitted);
 if (strQuestion.trim()) { // Ensure it's not an empty string
   questionEle.innerHTML='';
  const node = document.createRange().createContextualFragment(strQuestion);
- console.log(node); // Check the node structure
+ 
 if(questionEle)questionEle.appendChild(node);
 
 
@@ -152,8 +152,8 @@ prevButton.addEventListener('click',function(){
   if (strQuestion.trim()) { // Ensure it's not an empty string
     questionEle.innerHTML='';
    const node = document.createRange().createContextualFragment(strQuestion);
-   console.log(resultEle);
-   console.log(node); // Check the node structure
+   
+   
   if(questionEle)questionEle.appendChild(node);
   
   
@@ -175,7 +175,7 @@ const str = display.showNumbers(formData.numberOfquestions,Questions,submitted);
 
 if (str.trim()) { // Ensure it's not an empty string
     const node = document.createRange().createContextualFragment(str);
-    console.log(node); // Check the node structure
+    
     dashEle.innerHTML='';
 if(dashEle)dashEle.appendChild(node);
 }
@@ -184,7 +184,7 @@ if(dashEle)dashEle.appendChild(node);
     questionEle.innerHTML='';
     resultEle.innerHTML=''; // Ensure it's not an empty string
    const node = document.createRange().createContextualFragment(HTMLcode);
-   console.log(node); // Check the node structure
+   
   resultEle.appendChild(node);
   }
 })
