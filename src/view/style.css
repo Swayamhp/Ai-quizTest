@@ -10,12 +10,12 @@ body{
   justify-content: center;
   height:100vh;
   align-items: center;
-  font-size:23px;
+  font-size:20px;
   font-family: sans-serif;
   color:white;
 }
 #container{
- width:70%;
+ width:80%;
  text-align: center;
  padding:15px;
  border-radius:15px;
@@ -59,15 +59,16 @@ body{
 
  }
  button{
-  padding:7px 15px;
+  padding:12px 20px;
   cursor: pointer;
   border-radius: 5px;
   border: 2px solid lightblue;
   transition: 0.5s;
   z-index: 1;
+  font-weight:500;
  }
  button:hover{
-  background-color:lightblue;
+  background-color:lightskyblue;
  }
  button::after{
   visibility:hidden;
@@ -96,3 +97,7 @@ body{
   transform: translate(-150%,-20%) rotate(360deg);
  }
  }
+ h1{
+  padding-bottom:30px;
+ }
+ 
