@@ -8,7 +8,7 @@ const genAI = new GoogleGenerativeAI(apiKey);
 export async function generateQuestions(insertText) {
   try{
 
-  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
   const chatSession = model.startChat({
     generationConfig: {
